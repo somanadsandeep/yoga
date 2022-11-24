@@ -1,0 +1,222 @@
+.footer-main {
+    background: url(../images/c.jpg) center no-repeat;
+    background-size: cover;
+}
+.subscribe-grid {
+    background: rgba(3, 5, 4, 0.93);
+} 
+/*--blog--*/
+.section{
+    padding:3em 0;
+}
+.navbar-default .navbar-nav > li > a:before, .dropdown-menu > li > a:before {
+    background: #0aab8a;
+}
+.widget ul {
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.widget-side ul li:first-child {
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+	-webkit-border-top-left-radius:4px;
+    -webkit-border-top-right-radius:4px;
+	-o-border-top-left-radius:4px;
+    -o-border-top-right-radius:4px;
+	-moz-border-top-left-radius:4px;
+    -moz-border-top-left-radius:4px;
+}
+.widget-side ul li:last-child {
+		border-bottom-left-radius:4px;
+		border-bottom-right-radius:4px;
+		-webkit-border-bottom-left-radius:4px;
+		-webkit-border-bottom-right-radius:4px;
+		-o-border-bottom-left-radius:4px;
+		-o-border-bottom-right-radius:4px;
+		-moz-border-bottom-left-radius:4px;
+		-moz-border-bottom-right-radius:4px;
+}
+.widget-side ul li {
+    display: block;
+    padding: 10px 15px;
+    background-color: #fff;
+    border: 1px solid #DBDCDC;
+    margin-bottom: -1px;
+}
+.widget-side ul li a {
+    display: block;
+	    color: #444;
+		font-size:1.1em;
+		line-height:1.5em;
+}
+.widget-side ul li .post-date {
+        color: #888;
+    font-size: 13px;
+    line-height: 32px;
+}
+h6.blg {
+       color: #444;
+    float: left;
+    padding: 0;
+    font-size: 1em;
+}
+.icons {
+    float: right;
+}
+.icons a {
+    color: #444;
+    text-align: right;
+    float: left;
+    font-size: 0.9em;
+    margin: 0.2em 0.1em;
+}
+.w3layouts-post-media img {
+    border-radius:4px 4px 0 0;
+    -o-border-radius:4px 4px 0 0;
+    -webkit-border-radius:4px 4px 0 0;
+    -moz-border-radius:4px 4px 0 0;
+}
+.agile-blog-text {
+    background: #f4f4f4;
+    padding: 2em 1.5em;
+    border: 1px solid #ddd;
+    border-top: none;
+	    border-radius:0px 0px 4px 4px;
+    -o-border-radius:0px 0px 4px 4px;
+    -webkit-border-radius:0px 0px 4px 4px;
+    -moz-border-radius:0px 0px 4px 4px;
+}
+.widget-side ul {
+    padding: 0;
+}
+h6.blg i,.icons i {
+    font-size: 1.3em;
+    margin: 0 0.3em;
+    color: #1da1f2;
+}
+.entry-meta p {
+    font-size: 0.95em;
+    line-height: 1.9em;
+    color: #444;
+	margin: 10px 0;
+}
+h6.blg i.fa.fa-clock-o {
+    margin: 0 0.3em 0 0em;
+}
+.agile-blog-text a:hover,.agile-blog-text a h3.h-t:hover,.widget-side ul li a:hover{
+ color:#000;
+ text-decoration:none;
+}
+h3.h-t,h4.h-t {
+    color: #111;
+    font-size:1.8em;
+	margin:10px 0;
+	}
+    h5.h-t {
+        font-size: 1.5em;
+        color: #3b5998;
+        margin: 0 0 0.5em;
+    }
+	.w3layouts-post-media.second {
+    margin: 2em 0;
+}
+h4.widget-title {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: #006eb7;
+	padding: 0 0 10px 0;
+}
+.song-img{
+ float:left;
+ width:20%;
+}
+.song-text{
+	 float:right;
+	 width:75%;
+}
+.song-img img {
+    width: 100%;
+	border-radius:4px;
+	-webkit-border-radius:4px;
+	-webkit-border-radius:4px;
+	-o-border-radius:4px;
+	-moz-border-radius:4px;
+	
+}
+.widget-side.second {
+    margin-top: 2em;
+}
+.blog-pagenat {
+    text-align:left;
+    margin-top:2em;
+}
+.blog-pagenat ul {
+    padding: 0;
+}
+.agile-blog-text img{
+  width:100%;
+}
+ul.app-blog li {
+    float: left;
+}
+.blog-pagenat ul li a {
+    display: block;
+    background: #fff;
+    padding: 8px 1.1em;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    color: #222;
+    font-weight: 400;
+    display: inline-block;
+    margin-top: 1em; 
+    text-decoration: none;
+    border: 1px solid #D6D4D4;
+	border-radius: 4px;
+    -o-border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+}
+.blog-pagenat ul li {
+    display: inline-block;
+    list-style: none;
+}
+.blog-pagenat ul li a:hover {
+    background:#EA57A3;
+    color:#fff;
+    border: 1px solid #EA57A3;
+}
+/* //blog */
+@media screen and (max-width: 991px){
+    .blog-pagenat {
+        text-align: left;
+        margin: 2em 0;
+    }
+}
+@media screen and (max-width: 414px){
+       h3.h-t, h4.h-t {
+        font-size: 1.5em;
+    }
+    .icons,h6.blg {
+        float: none;
+    }
+    .icons a{
+        display: block;
+        float: none;
+        text-align: left;
+        margin: 10px 0;
+    }
+}
+@media screen and (max-width: 384px){
+    h3.h-t, h4.h-t {
+        font-size: 1.4em;
+        line-height: 1.5;
+    }
+}
+@media screen and (max-width: 320px){
+    .agile-blog-text {
+        background: #f4f4f4;
+        padding: 2em 1em;
+    }
+}
