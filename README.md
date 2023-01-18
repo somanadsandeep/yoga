@@ -82,9 +82,7 @@ Project demo video URL:
 
 
 <img width="1080" alt="san botservice1" src="https://user-images.githubusercontent.com/116891898/213207990-c4e5b18a-4028-4320-9208-b372009795f0.png">
-
-
-<img width="1073" alt="san botservice2" src="https://user-images.githubusercontent.com/116891898/213208018-3674c678-202e-4969-a504-f38dff8f884b.png
+<img width="1073" alt="san botservice2" src="https://user-images.githubusercontent.com/116891898/213208018-3674c678-202e-4969-a504-f38dff8f884b.png">
 
 ##  AZURE RESOURCES 
                                              
