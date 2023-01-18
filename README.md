@@ -44,7 +44,7 @@ Project demo video URL:
 <img width="1069" alt="san home6" src="https://user-images.githubusercontent.com/116891898/213206514-2d67ba74-f9c0-43de-87bb-1cac21ade067.png">
 <img width="1065" alt="san home7" src="https://user-images.githubusercontent.com/116891898/213206549-5269c12f-f9d5-4d80-927b-2c0cea0f92bc.png">
 <img width="1060" alt="san home8" src="https://user-images.githubusercontent.com/116891898/213206711-c0f5a012-05b5-4b0e-93fb-29bf6c25f661.png">
-## HOME/MORE
+##  HOME/MORE
 
 <img width="1067" alt="san more travel" src="https://user-images.githubusercontent.com/116891898/213206916-bbbd8f3e-b634-49c1-a735-8ac8138d733d.png">
 <img width="1073" alt="san more yoga" src="https://user-images.githubusercontent.com/116891898/213207003-fa9a24c2-3d87-4e97-a861-65be5650419e.png">
