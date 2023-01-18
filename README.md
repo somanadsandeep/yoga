@@ -21,6 +21,7 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot, App service.
 .....................................................................................................................................................
 
 1,Static Web App URL :  https://witty-mushroom-08c2e0d10.2.azurestaticapps.net
+
 2,Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL :  https://yoga20.azurewebsites.net/bot.html
 
 3,App service URL: https://yoga20.azurewebsites.net
