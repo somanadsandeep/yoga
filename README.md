@@ -69,7 +69,7 @@ Project demo video URL:
 <img width="1064" alt="san more4" src="https://user-images.githubusercontent.com/116891898/213207539-7ec21e07-d96e-4736-af9b-bf5e624d79fe.png">
 
 
-## HOME/CONTACT US 
+##  HOME/CONTACT US 
 
 
 <img width="1066" alt="san contact1" src="https://user-images.githubusercontent.com/116891898/213207746-a0debc01-a2fe-4cbc-b913-d77017db9c7c.png">
@@ -77,7 +77,7 @@ Project demo video URL:
 <img width="1066" alt="san contact2" src="https://user-images.githubusercontent.com/116891898/213207768-9406eb27-1fa5-4b94-b9f0-f788e21d8024.png">
 
 
-## HOME/ BOTSERVICE 
+##  HOME/ BOTSERVICE 
 
 
 
@@ -86,7 +86,7 @@ Project demo video URL:
 
 <img width="1073" alt="san botservice2" src="https://user-images.githubusercontent.com/116891898/213208018-3674c678-202e-4969-a504-f38dff8f884b.png
 
-## AZURE RESOURCES 
+##  AZURE RESOURCES 
                                              
                                              
 
