@@ -59,19 +59,27 @@ Project demo video URL:
 
 <img width="1066" alt="san short codes 3" src="https://user-images.githubusercontent.com/116891898/213207253-f688ad05-2a53-40cb-adca-51e6f9b766c3.png">
 
+
+
 ## HOLME/ BLOG 
 
 <img width="1067" alt="san more1" src="https://user-images.githubusercontent.com/116891898/213207492-9b83c73e-d537-4537-b6df-90c9d3ea8ed6.png">
 <img width="1069" alt="san more2" src="https://user-images.githubusercontent.com/116891898/213207508-ea241e48-83cc-4e1a-9c36-0723a2b9ca20.png">
 <img width="1061" alt="san more3" src="https://user-images.githubusercontent.com/116891898/213207522-1f390a6e-9f13-40ad-a6f6-1e424ca8a73d.png">
 <img width="1064" alt="san more4" src="https://user-images.githubusercontent.com/116891898/213207539-7ec21e07-d96e-4736-af9b-bf5e624d79fe.png">
+
+
 ## HOME/CONTACT US 
 
 
 <img width="1066" alt="san contact1" src="https://user-images.githubusercontent.com/116891898/213207746-a0debc01-a2fe-4cbc-b913-d77017db9c7c.png">
 
 <img width="1066" alt="san contact2" src="https://user-images.githubusercontent.com/116891898/213207768-9406eb27-1fa5-4b94-b9f0-f788e21d8024.png">
+
+
 ## HOME/ BOTSERVICE 
+
+
 
 <img width="1080" alt="san botservice1" src="https://user-images.githubusercontent.com/116891898/213207990-c4e5b18a-4028-4320-9208-b372009795f0.png">
 
@@ -79,6 +87,8 @@ Project demo video URL:
 <img width="1073" alt="san botservice2" src="https://user-images.githubusercontent.com/116891898/213208018-3674c678-202e-4969-a504-f38dff8f884b.png
 
 ## AZURE RESOURCES 
+                                             
+                                             
 
 <img width="1079" alt="san azure " src="https://user-images.githubusercontent.com/116891898/213208855-63f8a663-bb92-4f02-95df-662a837af591.png">
 
